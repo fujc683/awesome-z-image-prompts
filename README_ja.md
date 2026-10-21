@@ -1,4 +1,4 @@
-<a href="https://apimart.ai/model/z-image-turbo"><img src="banner.jpg" alt="Z-Image Turbo prompts" width="100%" /></a>
+<a href="https://gola.apimart.ai/k-mTG8i2"><img src="banner.jpg" alt="Z-Image Turbo prompts" width="100%" /></a>
 
 # Awesome Z-Image Turbo プロンプト集
 
@@ -8,7 +8,9 @@
 
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
-**[👉 APIMart で Z-Image Turbo を使って生成 · apimart.ai/model/z-image-turbo](https://apimart.ai/model/z-image-turbo)**
+**[👉 APIMart で Z-Image Turbo を使って生成 · apimart.ai/model/z-image-turbo](https://gola.apimart.ai/k-mTG8i2)**
+[💰 Pricing](https://gola.apimart.ai/k-DVTxFR) · [🔑 Get an API key](https://gola.apimart.ai/k-gqJyk9)
+
 
 ---
 
@@ -65,7 +67,7 @@ editorial studio portrait, volumetric fog with rim light, 100mm macro, commercia
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -88,7 +90,7 @@ candid street portrait, soft window light, 85mm lens, shallow depth of field, 4:
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -111,7 +113,7 @@ corporate headshot, hard directional key light with subtle fill, isometric 3D re
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -134,7 +136,7 @@ artistic double exposure portrait, golden hour backlight, top-down flat lay, 16:
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -157,7 +159,7 @@ cinematic close-up, moody low-key lighting, wide angle, architectural compositio
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -180,7 +182,7 @@ editorial studio portrait, even diffused studio light, film grain, analog color 
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -203,7 +205,7 @@ candid street portrait, volumetric fog with rim light, isometric 3D render look,
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -226,7 +228,7 @@ corporate headshot, soft window light, wide angle, architectural composition, 4:
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -249,7 +251,7 @@ artistic double exposure portrait, hard directional key light with subtle fill, 
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -272,7 +274,7 @@ cinematic close-up, golden hour backlight, 85mm lens, shallow depth of field, 16
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -295,7 +297,7 @@ editorial studio portrait, moody low-key lighting, top-down flat lay, 4:3 compos
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -318,7 +320,7 @@ candid street portrait, even diffused studio light, wide angle, architectural co
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -341,7 +343,7 @@ corporate headshot, volumetric fog with rim light, 85mm lens, shallow depth of f
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -364,7 +366,7 @@ artistic double exposure portrait, soft window light, film grain, analog color s
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -387,7 +389,7 @@ cinematic close-up, hard directional key light with subtle fill, isometric 3D re
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -410,7 +412,7 @@ editorial studio portrait, golden hour backlight, 100mm macro, commercial produc
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -433,7 +435,7 @@ candid street portrait, moody low-key lighting, 85mm lens, shallow depth of fiel
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -456,7 +458,7 @@ corporate headshot, even diffused studio light, isometric 3D render look, 1:1 co
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -479,7 +481,7 @@ artistic double exposure portrait, volumetric fog with rim light, top-down flat 
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -502,7 +504,7 @@ cinematic close-up, soft window light, wide angle, architectural composition, 4:
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -525,7 +527,7 @@ editorial studio portrait, hard directional key light with subtle fill, film gra
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -548,7 +550,7 @@ candid street portrait, golden hour backlight, isometric 3D render look, 16:9 co
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -571,7 +573,7 @@ corporate headshot, moody low-key lighting, wide angle, architectural compositio
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -594,7 +596,7 @@ artistic double exposure portrait, even diffused studio light, 100mm macro, comm
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -617,7 +619,7 @@ cinematic close-up, volumetric fog with rim light, 85mm lens, shallow depth of f
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -640,7 +642,7 @@ editorial studio portrait, soft window light, top-down flat lay, 4:5 composition
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -663,7 +665,7 @@ candid street portrait, hard directional key light with subtle fill, wide angle,
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -686,7 +688,7 @@ corporate headshot, golden hour backlight, 85mm lens, shallow depth of field, 16
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -711,7 +713,7 @@ matte ceramic bottle, golden hour backlight, wide angle, architectural compositi
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -734,7 +736,7 @@ floating sneaker, moody low-key lighting, 85mm lens, shallow depth of field, 4:5
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -757,7 +759,7 @@ glass perfume flacon, even diffused studio light, 85mm lens, shallow depth of fi
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -780,7 +782,7 @@ minimal skincare set, volumetric fog with rim light, wide angle, architectural c
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -803,7 +805,7 @@ premium coffee packaging, soft window light, wide angle, architectural compositi
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -826,7 +828,7 @@ matte ceramic bottle, hard directional key light with subtle fill, 85mm lens, sh
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -849,7 +851,7 @@ floating sneaker, golden hour backlight, isometric 3D render look, 3:4 compositi
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -872,7 +874,7 @@ glass perfume flacon, moody low-key lighting, isometric 3D render look, 4:5 comp
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -895,7 +897,7 @@ minimal skincare set, even diffused studio light, 85mm lens, shallow depth of fi
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -918,7 +920,7 @@ premium coffee packaging, volumetric fog with rim light, 85mm lens, shallow dept
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -941,7 +943,7 @@ matte ceramic bottle, soft window light, isometric 3D render look, 4:3 compositi
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -964,7 +966,7 @@ floating sneaker, hard directional key light with subtle fill, wide angle, archi
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -987,7 +989,7 @@ glass perfume flacon, golden hour backlight, wide angle, architectural compositi
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1010,7 +1012,7 @@ minimal skincare set, moody low-key lighting, isometric 3D render look, 4:5 comp
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1033,7 +1035,7 @@ premium coffee packaging, even diffused studio light, isometric 3D render look, 
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1056,7 +1058,7 @@ matte ceramic bottle, volumetric fog with rim light, wide angle, architectural c
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1079,7 +1081,7 @@ floating sneaker, soft window light, 85mm lens, shallow depth of field, 4:3 comp
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1102,7 +1104,7 @@ glass perfume flacon, hard directional key light with subtle fill, 85mm lens, sh
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1125,7 +1127,7 @@ minimal skincare set, golden hour backlight, wide angle, architectural compositi
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1148,7 +1150,7 @@ premium coffee packaging, moody low-key lighting, wide angle, architectural comp
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1171,7 +1173,7 @@ matte ceramic bottle, even diffused studio light, 85mm lens, shallow depth of fi
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1194,7 +1196,7 @@ floating sneaker, volumetric fog with rim light, isometric 3D render look, 16:9 
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1217,7 +1219,7 @@ glass perfume flacon, soft window light, isometric 3D render look, 4:3 compositi
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1240,7 +1242,7 @@ minimal skincare set, hard directional key light with subtle fill, 85mm lens, sh
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1263,7 +1265,7 @@ premium coffee packaging, golden hour backlight, 85mm lens, shallow depth of fie
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1286,7 +1288,7 @@ matte ceramic bottle, moody low-key lighting, isometric 3D render look, 4:5 comp
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1309,7 +1311,7 @@ floating sneaker, even diffused studio light, wide angle, architectural composit
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1332,7 +1334,7 @@ glass perfume flacon, volumetric fog with rim light, wide angle, architectural c
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1357,7 +1359,7 @@ swiss-style exhibition poster, hard directional key light with subtle fill, film
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1380,7 +1382,7 @@ risograph concert poster, golden hour backlight, wide angle, architectural compo
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1403,7 +1405,7 @@ bold typographic movie key art, moody low-key lighting, isometric 3D render look
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1426,7 +1428,7 @@ minimal travel poster, even diffused studio light, top-down flat lay, 16:9 compo
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1449,7 +1451,7 @@ vintage book cover, volumetric fog with rim light, wide angle, architectural com
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1472,7 +1474,7 @@ swiss-style exhibition poster, soft window light, top-down flat lay, 1:1 composi
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1495,7 +1497,7 @@ risograph concert poster, hard directional key light with subtle fill, 85mm lens
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1518,7 +1520,7 @@ bold typographic movie key art, golden hour backlight, wide angle, architectural
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1541,7 +1543,7 @@ minimal travel poster, moody low-key lighting, 100mm macro, commercial product p
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1564,7 +1566,7 @@ vintage book cover, even diffused studio light, 85mm lens, shallow depth of fiel
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1587,7 +1589,7 @@ swiss-style exhibition poster, volumetric fog with rim light, 100mm macro, comme
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1610,7 +1612,7 @@ risograph concert poster, soft window light, isometric 3D render look, 1:1 compo
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1633,7 +1635,7 @@ bold typographic movie key art, hard directional key light with subtle fill, 85m
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1656,7 +1658,7 @@ minimal travel poster, golden hour backlight, film grain, analog color science, 
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1679,7 +1681,7 @@ vintage book cover, moody low-key lighting, isometric 3D render look, 2:3 compos
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1702,7 +1704,7 @@ swiss-style exhibition poster, even diffused studio light, film grain, analog co
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1725,7 +1727,7 @@ risograph concert poster, volumetric fog with rim light, wide angle, architectur
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1748,7 +1750,7 @@ bold typographic movie key art, soft window light, isometric 3D render look, 1:1
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1771,7 +1773,7 @@ minimal travel poster, hard directional key light with subtle fill, top-down fla
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1794,7 +1796,7 @@ vintage book cover, golden hour backlight, wide angle, architectural composition
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1817,7 +1819,7 @@ swiss-style exhibition poster, moody low-key lighting, top-down flat lay, 2:3 co
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1840,7 +1842,7 @@ risograph concert poster, even diffused studio light, 85mm lens, shallow depth o
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1863,7 +1865,7 @@ bold typographic movie key art, volumetric fog with rim light, wide angle, archi
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1886,7 +1888,7 @@ minimal travel poster, soft window light, 100mm macro, commercial product photog
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1909,7 +1911,7 @@ vintage book cover, hard directional key light with subtle fill, 85mm lens, shal
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1932,7 +1934,7 @@ swiss-style exhibition poster, golden hour backlight, 100mm macro, commercial pr
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1955,7 +1957,7 @@ risograph concert poster, moody low-key lighting, isometric 3D render look, 2:3 
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -1978,7 +1980,7 @@ bold typographic movie key art, even diffused studio light, 85mm lens, shallow d
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2003,7 +2005,7 @@ exploded view of a camera, moody low-key lighting, 100mm macro, commercial produ
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2026,7 +2028,7 @@ three-step recipe card, even diffused studio light, 85mm lens, shallow depth of 
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2049,7 +2051,7 @@ timeline infographic, volumetric fog with rim light, 85mm lens, shallow depth of
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2072,7 +2074,7 @@ scientific cross-section, soft window light, 85mm lens, shallow depth of field, 
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2095,7 +2097,7 @@ comparison chart with icons, hard directional key light with subtle fill, film g
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2118,7 +2120,7 @@ exploded view of a camera, golden hour backlight, film grain, analog color scien
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2141,7 +2143,7 @@ three-step recipe card, moody low-key lighting, isometric 3D render look, 3:4 co
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2164,7 +2166,7 @@ timeline infographic, even diffused studio light, isometric 3D render look, 4:5 
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2187,7 +2189,7 @@ scientific cross-section, volumetric fog with rim light, isometric 3D render loo
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2210,7 +2212,7 @@ comparison chart with icons, soft window light, top-down flat lay, 16:9 composit
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2233,7 +2235,7 @@ exploded view of a camera, hard directional key light with subtle fill, top-down
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2256,7 +2258,7 @@ three-step recipe card, golden hour backlight, wide angle, architectural composi
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2279,7 +2281,7 @@ timeline infographic, moody low-key lighting, wide angle, architectural composit
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2302,7 +2304,7 @@ scientific cross-section, even diffused studio light, wide angle, architectural 
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2325,7 +2327,7 @@ comparison chart with icons, volumetric fog with rim light, 100mm macro, commerc
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2348,7 +2350,7 @@ exploded view of a camera, soft window light, 100mm macro, commercial product ph
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2371,7 +2373,7 @@ three-step recipe card, hard directional key light with subtle fill, 85mm lens, 
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2394,7 +2396,7 @@ timeline infographic, golden hour backlight, 85mm lens, shallow depth of field, 
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2417,7 +2419,7 @@ scientific cross-section, moody low-key lighting, 85mm lens, shallow depth of fi
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2440,7 +2442,7 @@ comparison chart with icons, even diffused studio light, film grain, analog colo
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2463,7 +2465,7 @@ exploded view of a camera, volumetric fog with rim light, film grain, analog col
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2486,7 +2488,7 @@ three-step recipe card, soft window light, isometric 3D render look, 16:9 compos
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2509,7 +2511,7 @@ timeline infographic, hard directional key light with subtle fill, isometric 3D 
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2532,7 +2534,7 @@ scientific cross-section, golden hour backlight, isometric 3D render look, 1:1 c
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2555,7 +2557,7 @@ comparison chart with icons, moody low-key lighting, top-down flat lay, 3:4 comp
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2578,7 +2580,7 @@ exploded view of a camera, even diffused studio light, top-down flat lay, 4:5 co
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2601,7 +2603,7 @@ three-step recipe card, volumetric fog with rim light, wide angle, architectural
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2624,7 +2626,7 @@ timeline infographic, soft window light, wide angle, architectural composition, 
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2649,7 +2651,7 @@ anime rainy window scene, golden hour backlight, 85mm lens, shallow depth of fie
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2672,7 +2674,7 @@ watercolor botanical study, moody low-key lighting, isometric 3D render look, 4:
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2695,7 +2697,7 @@ paper-cut village landscape, even diffused studio light, 100mm macro, commercial
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2718,7 +2720,7 @@ gouache children book spread, volumetric fog with rim light, isometric 3D render
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2741,7 +2743,7 @@ retro manga panel, soft window light, 100mm macro, commercial product photograph
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2764,7 +2766,7 @@ anime rainy window scene, hard directional key light with subtle fill, isometric
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2787,7 +2789,7 @@ watercolor botanical study, golden hour backlight, wide angle, architectural com
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2810,7 +2812,7 @@ paper-cut village landscape, moody low-key lighting, film grain, analog color sc
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2833,7 +2835,7 @@ gouache children book spread, even diffused studio light, wide angle, architectu
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2856,7 +2858,7 @@ retro manga panel, volumetric fog with rim light, film grain, analog color scien
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2879,7 +2881,7 @@ anime rainy window scene, soft window light, wide angle, architectural compositi
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2902,7 +2904,7 @@ watercolor botanical study, hard directional key light with subtle fill, 85mm le
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2925,7 +2927,7 @@ paper-cut village landscape, golden hour backlight, top-down flat lay, 3:4 compo
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2948,7 +2950,7 @@ gouache children book spread, moody low-key lighting, 85mm lens, shallow depth o
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2971,7 +2973,7 @@ retro manga panel, even diffused studio light, top-down flat lay, 2:3 compositio
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -2994,7 +2996,7 @@ anime rainy window scene, volumetric fog with rim light, 85mm lens, shallow dept
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3017,7 +3019,7 @@ watercolor botanical study, soft window light, isometric 3D render look, 4:3 com
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3040,7 +3042,7 @@ paper-cut village landscape, hard directional key light with subtle fill, 100mm 
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3063,7 +3065,7 @@ gouache children book spread, golden hour backlight, isometric 3D render look, 3
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3086,7 +3088,7 @@ retro manga panel, moody low-key lighting, 100mm macro, commercial product photo
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3109,7 +3111,7 @@ anime rainy window scene, even diffused studio light, isometric 3D render look, 
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3132,7 +3134,7 @@ watercolor botanical study, volumetric fog with rim light, wide angle, architect
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3155,7 +3157,7 @@ paper-cut village landscape, soft window light, film grain, analog color science
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3178,7 +3180,7 @@ gouache children book spread, hard directional key light with subtle fill, wide 
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3201,7 +3203,7 @@ retro manga panel, golden hour backlight, film grain, analog color science, 3:4 
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3224,7 +3226,7 @@ anime rainy window scene, moody low-key lighting, wide angle, architectural comp
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3247,7 +3249,7 @@ watercolor botanical study, even diffused studio light, 85mm lens, shallow depth
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3270,7 +3272,7 @@ paper-cut village landscape, volumetric fog with rim light, top-down flat lay, 1
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3295,7 +3297,7 @@ glass prism still life, hard directional key light with subtle fill, isometric 3
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3318,7 +3320,7 @@ clay character bust, golden hour backlight, top-down flat lay, 4:5 composition, 
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3341,7 +3343,7 @@ liquid chrome lettering, moody low-key lighting, top-down flat lay, 2:3 composit
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3364,7 +3366,7 @@ fabric drape study, even diffused studio light, 85mm lens, shallow depth of fiel
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3387,7 +3389,7 @@ macro mineral texture, volumetric fog with rim light, film grain, analog color s
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3410,7 +3412,7 @@ glass prism still life, soft window light, wide angle, architectural composition
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3433,7 +3435,7 @@ clay character bust, hard directional key light with subtle fill, 100mm macro, c
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3456,7 +3458,7 @@ liquid chrome lettering, golden hour backlight, 100mm macro, commercial product 
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3479,7 +3481,7 @@ fabric drape study, moody low-key lighting, isometric 3D render look, 2:3 compos
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3502,7 +3504,7 @@ macro mineral texture, even diffused studio light, top-down flat lay, 16:9 compo
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3525,7 +3527,7 @@ glass prism still life, volumetric fog with rim light, 85mm lens, shallow depth 
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3548,7 +3550,7 @@ clay character bust, soft window light, film grain, analog color science, 1:1 co
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3571,7 +3573,7 @@ liquid chrome lettering, hard directional key light with subtle fill, film grain
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3594,7 +3596,7 @@ fabric drape study, golden hour backlight, wide angle, architectural composition
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3617,7 +3619,7 @@ macro mineral texture, moody low-key lighting, 100mm macro, commercial product p
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3640,7 +3642,7 @@ glass prism still life, even diffused studio light, isometric 3D render look, 16
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3663,7 +3665,7 @@ clay character bust, volumetric fog with rim light, top-down flat lay, 4:3 compo
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3686,7 +3688,7 @@ liquid chrome lettering, soft window light, top-down flat lay, 1:1 composition, 
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3709,7 +3711,7 @@ fabric drape study, hard directional key light with subtle fill, 85mm lens, shal
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3732,7 +3734,7 @@ macro mineral texture, golden hour backlight, film grain, analog color science, 
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3755,7 +3757,7 @@ glass prism still life, moody low-key lighting, wide angle, architectural compos
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3778,7 +3780,7 @@ clay character bust, even diffused studio light, 100mm macro, commercial product
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3801,7 +3803,7 @@ liquid chrome lettering, volumetric fog with rim light, 100mm macro, commercial 
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3824,7 +3826,7 @@ fabric drape study, soft window light, isometric 3D render look, 1:1 composition
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3847,7 +3849,7 @@ macro mineral texture, hard directional key light with subtle fill, top-down fla
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3870,7 +3872,7 @@ glass prism still life, golden hour backlight, 85mm lens, shallow depth of field
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3893,7 +3895,7 @@ clay character bust, moody low-key lighting, film grain, analog color science, 2
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3916,7 +3918,7 @@ liquid chrome lettering, even diffused studio light, film grain, analog color sc
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3941,7 +3943,7 @@ overhead ramen bowl, even diffused studio light, 100mm macro, commercial product
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3964,7 +3966,7 @@ morning coffee table, volumetric fog with rim light, isometric 3D render look, 4
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -3987,7 +3989,7 @@ rustic sourdough loaf, soft window light, 100mm macro, commercial product photog
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4010,7 +4012,7 @@ cocktail on bar counter, hard directional key light with subtle fill, film grain
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4033,7 +4035,7 @@ summer picnic spread, golden hour backlight, isometric 3D render look, 4:3 compo
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4056,7 +4058,7 @@ overhead ramen bowl, moody low-key lighting, film grain, analog color science, 1
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4079,7 +4081,7 @@ morning coffee table, even diffused studio light, wide angle, architectural comp
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4102,7 +4104,7 @@ rustic sourdough loaf, volumetric fog with rim light, film grain, analog color s
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4125,7 +4127,7 @@ cocktail on bar counter, soft window light, top-down flat lay, 2:3 composition, 
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4148,7 +4150,7 @@ summer picnic spread, hard directional key light with subtle fill, wide angle, a
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4171,7 +4173,7 @@ overhead ramen bowl, golden hour backlight, top-down flat lay, 4:3 composition, 
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4194,7 +4196,7 @@ morning coffee table, moody low-key lighting, 85mm lens, shallow depth of field,
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4217,7 +4219,7 @@ rustic sourdough loaf, even diffused studio light, top-down flat lay, 3:4 compos
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4240,7 +4242,7 @@ cocktail on bar counter, volumetric fog with rim light, 100mm macro, commercial 
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4263,7 +4265,7 @@ summer picnic spread, soft window light, 85mm lens, shallow depth of field, 2:3 
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4286,7 +4288,7 @@ overhead ramen bowl, hard directional key light with subtle fill, 100mm macro, c
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4309,7 +4311,7 @@ morning coffee table, golden hour backlight, isometric 3D render look, 4:3 compo
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4332,7 +4334,7 @@ rustic sourdough loaf, moody low-key lighting, 100mm macro, commercial product p
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4355,7 +4357,7 @@ cocktail on bar counter, even diffused studio light, film grain, analog color sc
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4378,7 +4380,7 @@ summer picnic spread, volumetric fog with rim light, isometric 3D render look, 4
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4401,7 +4403,7 @@ overhead ramen bowl, soft window light, film grain, analog color science, 2:3 co
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4424,7 +4426,7 @@ morning coffee table, hard directional key light with subtle fill, wide angle, a
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4447,7 +4449,7 @@ rustic sourdough loaf, golden hour backlight, film grain, analog color science, 
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4470,7 +4472,7 @@ cocktail on bar counter, moody low-key lighting, top-down flat lay, 1:1 composit
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4493,7 +4495,7 @@ summer picnic spread, even diffused studio light, wide angle, architectural comp
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4516,7 +4518,7 @@ overhead ramen bowl, volumetric fog with rim light, top-down flat lay, 4:5 compo
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4539,7 +4541,7 @@ morning coffee table, soft window light, 85mm lens, shallow depth of field, 2:3 
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4562,7 +4564,7 @@ rustic sourdough loaf, hard directional key light with subtle fill, top-down fla
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4587,7 +4589,7 @@ brutalist atrium, volumetric fog with rim light, isometric 3D render look, 3:4 c
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4610,7 +4612,7 @@ japandi living room, soft window light, top-down flat lay, 4:5 composition, high
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4633,7 +4635,7 @@ rain-soaked city street, hard directional key light with subtle fill, top-down f
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4656,7 +4658,7 @@ desert pavilion, golden hour backlight, top-down flat lay, 16:9 composition, hig
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4679,7 +4681,7 @@ nordic cabin interior, moody low-key lighting, film grain, analog color science,
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4702,7 +4704,7 @@ brutalist atrium, even diffused studio light, wide angle, architectural composit
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4725,7 +4727,7 @@ japandi living room, volumetric fog with rim light, 100mm macro, commercial prod
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4748,7 +4750,7 @@ rain-soaked city street, soft window light, 100mm macro, commercial product phot
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4771,7 +4773,7 @@ desert pavilion, hard directional key light with subtle fill, 100mm macro, comme
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4794,7 +4796,7 @@ nordic cabin interior, golden hour backlight, top-down flat lay, 16:9 compositio
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4817,7 +4819,7 @@ brutalist atrium, moody low-key lighting, 85mm lens, shallow depth of field, 4:3
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4840,7 +4842,7 @@ japandi living room, even diffused studio light, film grain, analog color scienc
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4863,7 +4865,7 @@ rain-soaked city street, volumetric fog with rim light, film grain, analog color
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4886,7 +4888,7 @@ desert pavilion, soft window light, film grain, analog color science, 4:5 compos
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4909,7 +4911,7 @@ nordic cabin interior, hard directional key light with subtle fill, 100mm macro,
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4932,7 +4934,7 @@ brutalist atrium, golden hour backlight, isometric 3D render look, 16:9 composit
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4955,7 +4957,7 @@ japandi living room, moody low-key lighting, top-down flat lay, 4:3 composition,
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -4978,7 +4980,7 @@ rain-soaked city street, even diffused studio light, top-down flat lay, 1:1 comp
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5001,7 +5003,7 @@ desert pavilion, volumetric fog with rim light, top-down flat lay, 3:4 compositi
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5024,7 +5026,7 @@ nordic cabin interior, soft window light, film grain, analog color science, 4:5 
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5047,7 +5049,7 @@ brutalist atrium, hard directional key light with subtle fill, wide angle, archi
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5070,7 +5072,7 @@ japandi living room, golden hour backlight, 100mm macro, commercial product phot
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5093,7 +5095,7 @@ rain-soaked city street, moody low-key lighting, 100mm macro, commercial product
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5116,7 +5118,7 @@ desert pavilion, even diffused studio light, 100mm macro, commercial product pho
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5139,7 +5141,7 @@ nordic cabin interior, volumetric fog with rim light, top-down flat lay, 3:4 com
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5162,7 +5164,7 @@ brutalist atrium, soft window light, 85mm lens, shallow depth of field, 4:5 comp
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5185,7 +5187,7 @@ japandi living room, hard directional key light with subtle fill, film grain, an
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5208,7 +5210,7 @@ rain-soaked city street, golden hour backlight, film grain, analog color science
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5233,7 +5235,7 @@ misty pine forest, soft window light, film grain, analog color science, 3:4 comp
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5256,7 +5258,7 @@ volcanic coastline at dusk, hard directional key light with subtle fill, isometr
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5279,7 +5281,7 @@ alpine lake reflection, golden hour backlight, wide angle, architectural composi
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5302,7 +5304,7 @@ sand dune ridges, moody low-key lighting, isometric 3D render look, 16:9 composi
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5325,7 +5327,7 @@ autumn birch grove, even diffused studio light, wide angle, architectural compos
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5348,7 +5350,7 @@ misty pine forest, volumetric fog with rim light, top-down flat lay, 1:1 composi
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5371,7 +5373,7 @@ volcanic coastline at dusk, soft window light, wide angle, architectural composi
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5394,7 +5396,7 @@ alpine lake reflection, hard directional key light with subtle fill, 85mm lens, 
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5417,7 +5419,7 @@ sand dune ridges, golden hour backlight, wide angle, architectural composition, 
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5440,7 +5442,7 @@ autumn birch grove, moody low-key lighting, 85mm lens, shallow depth of field, 1
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5463,7 +5465,7 @@ misty pine forest, even diffused studio light, 100mm macro, commercial product p
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5486,7 +5488,7 @@ volcanic coastline at dusk, volumetric fog with rim light, 85mm lens, shallow de
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5509,7 +5511,7 @@ alpine lake reflection, soft window light, isometric 3D render look, 3:4 composi
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5532,7 +5534,7 @@ sand dune ridges, hard directional key light with subtle fill, 85mm lens, shallo
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5555,7 +5557,7 @@ autumn birch grove, golden hour backlight, isometric 3D render look, 2:3 composi
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5578,7 +5580,7 @@ misty pine forest, moody low-key lighting, film grain, analog color science, 16:
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5601,7 +5603,7 @@ volcanic coastline at dusk, even diffused studio light, isometric 3D render look
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5624,7 +5626,7 @@ alpine lake reflection, volumetric fog with rim light, wide angle, architectural
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5647,7 +5649,7 @@ sand dune ridges, soft window light, isometric 3D render look, 3:4 composition, 
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5670,7 +5672,7 @@ autumn birch grove, hard directional key light with subtle fill, wide angle, arc
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5693,7 +5695,7 @@ misty pine forest, golden hour backlight, top-down flat lay, 2:3 composition, hi
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5716,7 +5718,7 @@ volcanic coastline at dusk, moody low-key lighting, wide angle, architectural co
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5739,7 +5741,7 @@ alpine lake reflection, even diffused studio light, 85mm lens, shallow depth of 
 - アスペクト比: 4:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5762,7 +5764,7 @@ sand dune ridges, volumetric fog with rim light, wide angle, architectural compo
 - アスペクト比: 1:1
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5785,7 +5787,7 @@ autumn birch grove, soft window light, 85mm lens, shallow depth of field, 3:4 co
 - アスペクト比: 3:4
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5808,7 +5810,7 @@ misty pine forest, hard directional key light with subtle fill, 100mm macro, com
 - アスペクト比: 4:5
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5831,7 +5833,7 @@ volcanic coastline at dusk, golden hour backlight, 85mm lens, shallow depth of f
 - アスペクト比: 2:3
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
@@ -5854,7 +5856,7 @@ alpine lake reflection, moody low-key lighting, isometric 3D render look, 16:9 c
 - アスペクト比: 16:9
 - プロンプト言語: en
 
-**[👉 このプロンプトで生成](https://apimart.ai/model/z-image-turbo)**
+**[👉 このプロンプトで生成](https://gola.apimart.ai/k-mTG8i2)**
 
 ---
 
