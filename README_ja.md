@@ -5860,6 +5860,25 @@ alpine lake reflection, moody low-key lighting, isometric 3D render look, 16:9 c
 
 ---
 
+## 🔗 More prompt collections
+
+Curated prompt libraries for other image models:
+
+- **FLUX 2** — [awesome-flux-2-prompts](https://github.com/fujc683/awesome-flux-2-prompts)
+- **Nano Banana 2** — [awesome-nano-banana-2-prompts](https://github.com/fujc683/awesome-nano-banana-2-prompts)
+- **Nano Banana Pro** — [awesome-nano-banana-pro-prompts](https://github.com/fujc683/awesome-nano-banana-pro-prompts)
+- **GPT Image 2** — [awesome-gpt-image-2-prompts](https://github.com/fujc683/awesome-gpt-image-2-prompts)
+- **Grok Imagine** — [awesome-grok-imagine-prompts](https://github.com/fujc683/awesome-grok-imagine-prompts)
+- **Qwen-Image 2.1** — [awesome-qwen-image-prompts](https://github.com/fujc683/awesome-qwen-image-prompts)
+- **Seedream 5.0** — [awesome-seedream-5-prompts](https://github.com/fujc683/awesome-seedream-5-prompts)
+- **FLUX 2 Max** — [awesome-flux-2-max-prompts](https://github.com/fujc683/awesome-flux-2-max-prompts)
+- **Seedream 5.0 Flash** — [awesome-seedream-5-flash-prompts](https://github.com/fujc683/awesome-seedream-5-flash-prompts)
+- **HY Image 3.5** — [awesome-hy-image-prompts](https://github.com/fujc683/awesome-hy-image-prompts)
+- **FLUX 3 Image Klein** — [awesome-flux-3-klein-prompts](https://github.com/fujc683/awesome-flux-3-klein-prompts)
+- **MAI-Image 2.6** — [awesome-mai-image-prompts](https://github.com/fujc683/awesome-mai-image-prompts)
+
+---
+
 ## License
 
 CC BY 4.0 — prompts are shared for educational purposes. See [CONTRIBUTING.md](docs/CONTRIBUTING.md) to submit yours.
