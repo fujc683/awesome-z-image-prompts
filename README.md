@@ -37,7 +37,7 @@ Z-Image Turbo is known for fast, clean, high-contrast commercial visuals. This c
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-20
+- Last updated: 2026-10-26
 - apimart.ai/model/z-image-turbo
 
 ## Browse by Category
