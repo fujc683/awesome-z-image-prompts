@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 在 APIMart 上用 Z-Image Turbo 生成 · apimart.ai/model/z-image-turbo](https://gola.apimart.ai/k-mTG8i2)**
+
+`https://gola.apimart.ai/k-mTG8i2`
 [💰 Pricing](https://gola.apimart.ai/k-DVTxFR) · [🔑 Get an API key](https://gola.apimart.ai/k-gqJyk9)
 
 

@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 Generate with Z-Image Turbo on APIMart · apimart.ai/model/z-image-turbo](https://gola.apimart.ai/k-mTG8i2)**
+
+`https://gola.apimart.ai/k-mTG8i2`
 [💰 Pricing](https://gola.apimart.ai/k-DVTxFR) · [🔑 Get an API key](https://gola.apimart.ai/k-gqJyk9)
 
 
@@ -35,7 +37,7 @@ Z-Image Turbo is known for fast, clean, high-contrast commercial visuals. This c
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-26
+- Last updated: 2026-10-20
 - apimart.ai/model/z-image-turbo
 
 ## Browse by Category
